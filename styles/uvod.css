@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color:#5ab05d90;
     /*
     margin: 0;
     padding: 0;
@@ -10,10 +10,18 @@ body {
     font-family: "Bebas Neue", sans-serif;
     /*font-weight: 400;*/
     font-style: normal;
+    font-size: 4em;
 }
 
 .bungee-tint {
     font-family: "Bungee Tint", sans-serif;
     /*font-weight: 400;*/
     font-style: normal;
+}
+
+h1 {
+    color:rgb(37, 26, 92);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #5ab05d;
+
 }
